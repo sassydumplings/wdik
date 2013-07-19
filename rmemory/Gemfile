@@ -13,6 +13,7 @@ gem 'meta_request'
 gem 'better_errors'
 gem 'soundcloud'
 gem 'annotate'
+gem 'sorcery'
 
 # Gems used only for assets and not required
 # in production environments by default.
