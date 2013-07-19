@@ -1,4 +1,7 @@
 Rmemory::Application.routes.draw do
+  resources :users
+
+
   resources :games
   root :to => 'games#index'
 
