@@ -5,3 +5,17 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+# Topic.create(name: 'Ajax')
+# Topic.create(name: 'APIs')
+# Topic.create(name: 'Foundation')
+# Topic.create(name: 'Github')
+# Topic.create(name: 'Heroku')
+# Topic.create(name: 'HTML/CSS')
+# Topic.create(name: 'Javascript')
+# Topic.create(name: 'JQuery')
+# Topic.create(name: 'Rails')
+# Topic.create(name: 'Ruby')
+# Topic.create(name: 'Twitter Bootstrap')
+# Topic.create(name: 'Underscore.js')
+# Topic.create(name: 'Webservers')
+
